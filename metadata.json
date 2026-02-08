@@ -1,0 +1,7 @@
+{
+  "name": "Hackathon II: Evolution of Todo Dashboard",
+  "description": "A comprehensive project management and evolution tracker for the Hackathon II: Spec-Driven Development & Cloud Native AI project. Features a mock todo system and a Gemini-powered AI assistant acting as an MCP agent.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
